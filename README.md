@@ -14,3 +14,9 @@ This @BGithS person is a pro noob. You can understand this if you have it.
 Youtube: https://bit.ly/3bkAEry
 Blogspot: https://bit.ly/3KyK7Lk
 Wordpress: https://bit.ly/3CganGS
+
+Need more
+Take it
+https://b62s.glitch.me
+https://navar.glitch.me
+Theesh much for nou.
