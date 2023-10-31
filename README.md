@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BGithS
-- 👀 I’m interested in ...net
-- 🌱 I’m currently learning ... the thing called development
-- 💞️ I’m looking to collaborate on ... things
-- 📫 How to reach me ... sthabdn@hotmail.com (better not)
+- 👀 I’m interested in ... stuffs : full stack development, cybersecurity, graphics........
+- 🌱 I’m currently learning ... the thing called web development
+- 💞️ I’m looking to collaborate on ... development of full fledged websites
+- 📫 How to reach me ... sthabdn@hotmail.com (Please try)
 
 <!---
 BGithS/BGithS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,5 +18,4 @@ Wordpress: https://bit.ly/3CganGS
 Need more
 Take it
 https://b62s.glitch.me
-https://navar.glitch.me
 Theesh much for nou.
