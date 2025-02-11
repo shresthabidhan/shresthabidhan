@@ -1,3 +1,10 @@
+
+
+
+
+
+
+~~Bio~~ **Biohazard**✅✅
 - 👋 Hi, I’m @BGithS
 - 👀 I’m interested in ... stuffs : full stack development, cybersecurity, graphics........
 - 🌱 I’m currently learning ... the thing called web development
