@@ -4,7 +4,7 @@
 </div>
 
 ---
-
+<div style="background:url('GBanner1.jfif')">
 ## 👋 About Me
 
 - **Hi, I’m @BGithS!**
@@ -12,7 +12,7 @@
 - 🌱 Currently learning: **Engineering**
 - 💞️ Looking to collaborate on: **Full-Fledged Websites**
 - 📫 Reach me at: [sthabdn@hotmail.com](mailto:sthabdn@hotmail.com) (Please try)
-
+</div>
 ---
 
 <div align="center">
