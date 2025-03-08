@@ -1,18 +1,12 @@
-<head>
-  <style>
-  .about{background-image:url('GBanner1.jfif');}
-</style>
-</head>
-<body>
 <div align="center">
   <h1 style="color: #ff0066;">💀 Biohazard 💀</h1>
 </div>
 
 ---
-<div class="about">
+<div bgcolor="red">
 ## 👋 About Me
 
-- **Hi, I’m @shresthabidhan!**
+- **Hi, I’m @BGithS!**
 - 👀 Interested in: **Full Stack Development**, **Cybersecurity**, **Graphics**
 - 🌱 Currently learning: **Engineering**
 - 💞️ Looking to collaborate on: **Full-Fledged Websites**
