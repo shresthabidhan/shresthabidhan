@@ -1,6 +1,5 @@
 <div align="center">
   <h1 style="color: #ff0066;">💀 Biohazard 💀</h1>
-  <img src="GBanner1.jfif" alt="Biohazard" style="width:100vh">
 </div>
 
 ---
