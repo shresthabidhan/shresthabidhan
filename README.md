@@ -3,10 +3,10 @@
 </div>
 
 ---
-<div style="background:url('GBanner1.jfif')">
+<div style="background-image:url('GBanner1.jfif')">
 ## 👋 About Me
 
-- **Hi, I’m @BGithS!**
+- **Hi, I’m @shresthabidhan!**
 - 👀 Interested in: **Full Stack Development**, **Cybersecurity**, **Graphics**
 - 🌱 Currently learning: **Engineering**
 - 💞️ Looking to collaborate on: **Full-Fledged Websites**
