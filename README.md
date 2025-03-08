@@ -1,6 +1,9 @@
-<style>
+<head>
+  <style>
   .about{background-image:url('GBanner1.jfif');}
 </style>
+</head>
+<body>
 <div align="center">
   <h1 style="color: #ff0066;">💀 Biohazard 💀</h1>
 </div>
@@ -36,3 +39,4 @@
 <div align="center">
   <em>Theesh much for nou.</em>
 </div>
+</body>
