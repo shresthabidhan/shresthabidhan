@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="color: #ff0066;">💀 Biohazard 💀</h1>
+  <h1 style="color: #ff0066;">Bio<s>hazard</s> </h1>
 </div>
 
 ---
