@@ -1,4 +1,34 @@
 <div align="center">
+  
+# Hello, I'm Bidhan Shrestha 👋
+
+### Information Technology Enthusiast
+
+</div>
+
+---
+
+
+## Tech Stack
+
+`C` `HTML` `CSS` `Python` `JavaScript`
+
+## Current Focus
+
+Studying [Electronics Engineering] and exploring [].
+
+---
+
+<div align="center">
+  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true)](https://github.com/yourusername)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shresthabidhan)
+
+</div>
+
+
+<div align="center">
   <h1 style="color: #ff0066;">Bio<s>hazard</s> </h1>
 </div>
 
