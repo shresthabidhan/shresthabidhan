@@ -21,7 +21,7 @@ Studying [Electronics Engineering] and exploring [].
 
 <div align="center">
   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true)](https://github.com/yourusername)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shresthabidhan)
 
@@ -53,14 +53,7 @@ Studying [Electronics Engineering] and exploring [].
 </div>
 
 ---
-<center><h1>📈 GitHub Stats</h1><br></center>
-<a href="https://github.com/shresthabidhan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shresthabidhan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Your GitHub Stats" />
-</a>
-<a href="https://github.com/shresthabidhan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shresthabidhan&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" alt="Your Top Languages" />
-</a>
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true)](https://github.com/yourusername)
 
 
 ## 🔍 About
