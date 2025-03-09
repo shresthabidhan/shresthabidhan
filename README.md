@@ -15,7 +15,7 @@
 
 ## Current Focus
 
-Studying [Electronics Engineering] and exploring [].
+Studying Electronics Engineering and exploring.
 
 ---
 
@@ -42,6 +42,9 @@ Studying [Electronics Engineering] and exploring [].
 - 💞️ Looking to collaborate on: **Full-Fledged Websites**
 - 📫 Reach me at: [sthabdn@hotmail.com](mailto:sthabdn@hotmail.com) (Please try)
 </div>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shresthabidhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true)](https://github.com/shresthabidhan)
+
 ---
 
 <div align="center">
@@ -53,7 +56,7 @@ Studying [Electronics Engineering] and exploring [].
 </div>
 
 ---
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true)](https://github.com/yourusername)
+
 
 
 ## 🔍 About
