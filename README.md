@@ -45,10 +45,10 @@ Studying Electronics Engineering and exploring.
 
 <div align="center">
   <h2>🌐 Find Me Online</h2>
-  <a href="https://bit.ly/3bkAEry"><img src="https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="https://bit.ly/3KyK7Lk"><img src="https://img.shields.io/badge/Blogspot-Blog-orange?style=for-the-badge&logo=blogger"></a>
-  <a href="https://bit.ly/3CganGS"><img src="https://img.shields.io/badge/WordPress-Site-blue?style=for-the-badge&logo=wordpress"></a>
-  <a href="https://b62s.glitch.me"><img src="https://img.shields.io/badge/More-Links-purple?style=for-the-badge&logo=linktree"></a>
+  <a href="https://bits.ly/3bkAEry"><img src="https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube"></a>
+  <a href="https://bits.ly/3KyK7Lk"><img src="https://img.shields.io/badge/Blogspot-Blog-orange?style=for-the-badge&logo=blogger"></a>
+  <a href="https://bits.ly/3CganGS"><img src="https://img.shields.io/badge/WordPress-Site-blue?style=for-the-badge&logo=wordpress"></a>
+  <a href="https://b62ss.glitch.me"><img src="https://img.shields.io/badge/More-Links-purple?style=for-the-badge&logo=linktree"></a>
 </div>
 
 ---
