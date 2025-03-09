@@ -3,7 +3,7 @@
 # Hello, I'm Bidhan Shrestha 👋
 
 ### Information Technology Enthusiast
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shresthabidhan)
 </div>
 
 ---
@@ -23,7 +23,7 @@ Studying Electronics Engineering and exploring.
   
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shresthabidhan)
+
 
 </div>
 
@@ -32,7 +32,7 @@ Studying Electronics Engineering and exploring.
 <div bgcolor="red">
 ## 👋 About Me
 
-- **Hi, I’m @BGithS!**
+- **Hi, I’m @shresthabidhan!**
 - 👀 Interested in: **Full Stack Development**, **Cybersecurity**, **Graphics**
 - 🌱 Currently learning: **Engineering**
 - 💞️ Looking to collaborate on: **Full-Fledged Websites**
