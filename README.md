@@ -28,10 +28,6 @@ Studying Electronics Engineering and exploring.
 </div>
 
 
-<div align="center">
-  <h1 style="color: #ff0066;">Bio<s>hazard</s> </h1>
-</div>
-
 ---
 <div bgcolor="red">
 ## 👋 About Me
