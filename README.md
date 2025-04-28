@@ -57,7 +57,7 @@ Studying Electronics Engineering and exploring.
 
 ## 🔍 About
 
-*This @shresthabidhan person is a pro noob. You can understand this if you have it.*
+Just a thinking meat who loves cactus and spares time in spare time
 
 ---
 
