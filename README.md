@@ -33,10 +33,10 @@ Studying Electronics Engineering and exploring.
 ## 👋 About Me
 
 - **Hi, I’m @shresthabidhan!**
-- 👀 Interested in: **Full Stack Development**, **Cybersecurity**, **Graphics**
+- 👀 Interested in: **Coding**, **Exploring Linux**, **Graphics**
 - 🌱 Currently learning: **Engineering**
 - 💞️ Looking to collaborate on: **Full-Fledged Websites**
-- 📫 Reach me at: [sthabdn@hotmail.com](mailto:sthabdn@hotmail.com) (Please try)
+- 📫 Reach me at: [shresthabidhaan@gmail.com](mailto:shresthabidhaan@gmail.com)
 </div>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=shresthabidhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true)](https://github.com/shresthabidhan)
@@ -57,11 +57,12 @@ Studying Electronics Engineering and exploring.
 
 ## 🔍 About
 
-Just a thinking meat who loves cactus and spares time in spare time
+Verily, I am but a thinking flesh, a vessel of contemplation, who holdeth a curious fondness for the thornéd cactus, that steadfast warden of the desert’s grace. And lo, in hours unshackled from toil, I do pass the fleeting sands of time with such diversions as the soul doth yearn for — idly yet purposefully, in that sacred space called *leisure*.
+
 
 ---
 
 <div align="center">
-  <em>Theesh much for nou.</em>
+  <em>Thus far, and no further—for now.</em>
 </div>
 </body>
