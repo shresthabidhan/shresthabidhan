@@ -11,7 +11,7 @@
 
 ## Tech Stack
 
-`C` `HTML` `CSS` `Python` `JavaScript`
+`C` `HTML` `CSS` `Python` `C++` `JavaScript`
 
 ## Current Focus
 
